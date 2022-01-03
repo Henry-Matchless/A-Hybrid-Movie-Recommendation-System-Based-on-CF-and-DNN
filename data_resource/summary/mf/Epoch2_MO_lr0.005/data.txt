@@ -1,0 +1,17 @@
+=== model time : 2021-12-11 00:19:58
+=== model type : mf
+=== epoch num  : 2
+=== batch size : 1024
+=== score mean   : 0.49463433
+=== score median : 0.49100956
+=== the num of all eval sample : 6040
+=== the num of pos eval sample : 3586
+=== the num of neg eval sample : 2454
+=== the TN of all smples : 1238
+=== the FP of all smples : 1216
+=== the FN of all smples : 1803
+=== the TP of all smples : 1783
+=== the all samples accuracy  : 0.5001655629139072
+=== the Recall of all smples  : 0.49721137757947576
+=== the F1score of all smples : 0.5415337889141989
+=== the auc of test sample    : 0.4977467726297733

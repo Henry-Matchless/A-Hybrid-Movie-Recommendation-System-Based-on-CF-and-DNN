@@ -1,0 +1,17 @@
+=== model time : 2021-12-10 18:18:23
+=== model type : ncf
+=== epoch num  : 2
+=== batch size : 1024
+=== score mean   : 0.56038487
+=== score median : 0.6062143
+=== the num of all eval sample : 6040
+=== the num of pos eval sample : 3586
+=== the num of neg eval sample : 2454
+=== the TN of all smples : 1501
+=== the FP of all smples : 953
+=== the FN of all smples : 765
+=== the TP of all smples : 2821
+=== the all samples accuracy  : 0.7155629139072848
+=== the Recall of all smples  : 0.786670384829894
+=== the F1score of all smples : 0.7665760869565218
+=== the auc of test sample    : 0.7718490384820804
